@@ -1,0 +1,75 @@
+.contenedor {
+    width: 500px;
+    height: 850px;
+    border-radius: 17px 17px 17px 17px;
+    border: 1px solid #b3abab;
+    margin: auto;
+    margin-top: 60px;
+    padding: 35px;
+    box-shadow: 3px 4px 24px -4px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    background: rgb(8,8,7);
+    background: linear-gradient(0deg, rgba(8,8,7,1) 61%, rgba(204,54,35,1) 61%);
+}
+
+img{
+    margin-top: 35px;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: white;
+    top: 50px;
+    position: relative;
+}
+
+span{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;  
+    font-size: 12px;
+    border-radius: 100px;
+    border: 1px red solid;
+    top: 35px;
+    position: relative;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+h2{
+    position: relative;
+    top: 70px;
+    font-size: 15px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    letter-spacing: 1px;
+    position: relative;
+    top: 70px;
+    font-size: 16px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+.precio{
+    top: 20px;
+    position: relative;
+}
+
+.valor{
+    font-size: 30px;
+    top: 50px;
+}
+
+button{
+    border-radius: 100px;
+    background-color:rgba(204,54,35,1) ;
+    border: 1px rgba(204,54,35,1) solid ;
+    color: white;
+    padding: 15px 60px 15px 60px;
+    top: 80px;
+    position: relative;
+    font-size: 15px;
+}
